@@ -12,7 +12,7 @@ This project was developed on windows 10 with Anaconda, jupyter notebook install
 
 ## Line Extrapolation  
 <img src="img/non_e.gif" width = "400"/> <img src="img/extrp.gif" width = "400"/>
-<img src="img/Pipi_Extrap.JPG" width = "600"/>
+<img src="img/Pipi_Extrap.JPG" width = "400"/>
 
 ## Shortcoming  
 While extrapolating lines, only slope are considered as threshold to
